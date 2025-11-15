@@ -18,7 +18,7 @@
 🌱 Learning: **ReactJS**, **Data Engineering**, **Machine Learning**  
 💼 Working on: **Unplug Meditation**  
 🤝 Looking to collaborate on interesting **projects**  
-💬 Ask me about: **Java, Kotlin, PHP, Python**  
+💬 Ask me about: **Java, Kotlin, PHP, Python, JS, React, HTML/CSS,Flutter**  
 📫 Email: **narayanspk544@gmail.com**  
 
 ### 🔗 **More About Me**
@@ -40,9 +40,9 @@
 <br><br>
 
 <!-- Animated LeetCode Stats -->
-<img src="https://leetcard.jacoblin.cool/PosMachine?theme=dark&font=JetBrains%20Mono&border=1&radius=20&ext=heatmap" />
+<!-- <img src="https://leetcard.jacoblin.cool/PosMachine?theme=dark&font=JetBrains%20Mono&border=1&radius=20&ext=heatmap" />
 
-</div>
+</div> -->
 
 ---
 
@@ -69,7 +69,7 @@
 
 ---
 
-# 🌀 **Animated Connect Buttons**
+# 🌀 ** Connect With me**
 <div align="center">
 
 <a href="https://www.linkedin.com/in/narayan-sapkota-b1283717a/" target="_blank">
@@ -88,6 +88,6 @@
 
 ---
 
-# ✨ **Aesthetic Animated Footer**
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:92FE9D,100:00C9FF&height=150&section=footer"/>
 
