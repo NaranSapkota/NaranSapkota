@@ -53,7 +53,7 @@
 </div>
 
 ---
-
+<!--
 # 📊 **GitHub Analytics**
 <div align="center">
 
@@ -66,6 +66,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naransapkota&layout=compact&theme=react&hide_border=false"/>
 
 </div>
+-->
 
 ---
 
