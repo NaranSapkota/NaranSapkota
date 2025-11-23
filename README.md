@@ -17,7 +17,7 @@
 <div align="center">
 
 🌱 Learning: **ReactJS**, **Data Engineering**, **Machine Learning**  
-💼 Working on: **Neplai Currency Detection**  
+💼 Working on: **Nepali Currency Detection**  
 🤝 Looking to collaborate on interesting **projects**  
 💬 Ask me about: **Java, Kotlin, PHP, Python, JS, React, HTML/CSS,Flutter**  
 📫 Email: **narayanspk544@gmail.com**  
